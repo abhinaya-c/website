@@ -26,7 +26,7 @@ html , body{
     height: 100%;
     width: 67%;
     background-color: rgb(84, 28, 224);
-    background-image: url("6c724b42-d5a7-4a70-bfc1-484afdc5564f.jpeg");
+    background-image: url("model.avif");
     background-size: cover;
     background-position: center;
 }
@@ -69,7 +69,7 @@ html , body{
     height: 300px;
     width: 300px;
     background-color: red;
-    background-image: url("cde8a650-7ec6-4014-9cfd-ccecb884ef9d.jpeg");
+    background-image: url("second.avif");
     background-size: cover;
     position: absolute;
     background-position: center;
