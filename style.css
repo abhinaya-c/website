@@ -26,7 +26,7 @@ html , body{
     height: 100%;
     width: 67%;
     background-color: rgb(84, 28, 224);
-    background-image: url("cover.jpeg");
+    background-image: url("front.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -69,7 +69,7 @@ html , body{
     height: 300px;
     width: 300px;
     background-color: red;
-    background-image: url("front.jpeg");
+    background-image: url("cover.jpg");
     background-size: cover;
     position: absolute;
     background-position: center;
